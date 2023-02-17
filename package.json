@@ -47,5 +47,16 @@
         "path": "./themes/Terminal-Light-color-theme.json"
       }
     ]
-  }
+  },
+  "icon": "img/terminal.jpg",
+    "author": {
+        "name": "Yes Dev",
+        "email": "yesdev19@gmail.com"
+    },
+    "repository": {
+        "url": "https://github.com/yesomac/terminal.git",
+        "type": "git"
+    },
+    "publisher": "YesCode",
+    "license": "MIT"
 }
