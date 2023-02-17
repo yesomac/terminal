@@ -1,0 +1,51 @@
+{
+  "name": "terminal",
+  "displayName": "Terminal",
+  "description": "",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.75.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Terminal",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Terminal-color-theme.json"
+      },
+      {
+        "label": "Terminal 2",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Terminal-2-color-theme.json"
+      },
+      {
+        "label": "Terminal 3",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Terminal-3-color-theme.json"
+      },
+      {
+        "label": "Terminal 4",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Terminal-4-color-theme.json"
+      },
+      {
+        "label": "Terminal 5",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Terminal-5-color-theme.json"
+      },
+      {
+        "label": "Terminal 6",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Terminal-6-color-theme.json"
+      },
+      {
+        "label": "Terminal Light",
+        "uiTheme": "vs",
+        "path": "./themes/Terminal-Light-color-theme.json"
+      }
+    ]
+  }
+}
