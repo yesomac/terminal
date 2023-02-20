@@ -83,8 +83,8 @@
     "menu.selectionForeground": "#fff",
 
     //tab
-    "tab.activeBackground": "#000000",
-    "tab.inactiveBackground": "#000000",
+    "tab.activeBackground": "#2c5457",
+    "tab.inactiveBackground": "#665b5b",
     "tab.hoverBackground": "#0D001A",//6e769e
     "tab.hoverBorder": "#000000",
     "tab.activeBorder": "#000000",

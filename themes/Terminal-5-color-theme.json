@@ -14,8 +14,8 @@
     "editor.hoverHighlightBackground": "#1c3847",
     "editorHoverWidget.background": "#040c11",//2f385e
     "editorGutter.background": "#02070a",
-    "editorIndentGuide.activeBackground": "#c18bff73",
-    "editorIndentGuide.background": "#5060a7",
+    "editorIndentGuide.activeBackground": "#c18bffd3",
+    "editorIndentGuide.background": "#5060a78f",
     
     //activityBar
     "activityBarBadge.background": "#152934",

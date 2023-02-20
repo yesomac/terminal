@@ -2,7 +2,7 @@
   "name": "terminal-theme",
   "displayName": "Terminal Theme",
   "description": "",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "engines": {
     "vscode": "^1.75.0"
   },
@@ -40,6 +40,11 @@
         "label": "Terminal 6",
         "uiTheme": "vs-dark",
         "path": "./themes/Terminal-6-color-theme.json"
+      },
+      {
+        "label": "Terminal 7",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Terminal-7-color-theme.json"
       },
       {
         "label": "Terminal Light",

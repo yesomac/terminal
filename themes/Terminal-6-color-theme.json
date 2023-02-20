@@ -167,8 +167,8 @@
 
     //scrollbar
     "scrollbarSlider.background": "#081624",
-    "scrollbarSlider.activeBackground": "#152934",
-    "scrollbarSlider.hoverBackground": "#02466e",
+    "scrollbarSlider.activeBackground": "#214253",
+    "scrollbarSlider.hoverBackground": "#02466ea9",
 
     //minimap
     "minimapSlider.background": "#2f385e5d",
