@@ -2,7 +2,7 @@
   "name": "terminal-theme",
   "displayName": "Terminal Theme",
   "description": "",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "engines": {
     "vscode": "^1.75.0"
   },
@@ -47,9 +47,29 @@
         "path": "./themes/Terminal-7-color-theme.json"
       },
       {
+        "label": "Terminal 8",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Terminal-8-color-theme.json"
+      },
+      {
+        "label": "Terminal 9",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Terminal-9-color-theme.json"
+      },
+      {
+        "label": "Terminal 10",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Terminal-10-color-theme.json"
+      },
+      {
         "label": "Terminal Light",
         "uiTheme": "vs",
         "path": "./themes/Terminal-Light-color-theme.json"
+      },
+      {
+        "label": "Terminal Light 2",
+        "uiTheme": "vs",
+        "path": "./themes/Terminal-Light-2-color-theme.json"
       }
     ]
   },
