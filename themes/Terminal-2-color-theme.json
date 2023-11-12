@@ -14,8 +14,8 @@
     "editor.hoverHighlightBackground": "#2e0458",
     "editorHoverWidget.background": "#0D001A",//2f385e
     "editorGutter.background": "#000000",
-    "editorIndentGuide.activeBackground": "#c18bff73",
-    "editorIndentGuide.background": "#5060a7",
+    "editorIndentGuide.activeBackground1": "#c18bff73",
+    "editorIndentGuide.background1": "#5060a7",
     
     //activityBar
     "activityBarBadge.background": "#38056b",
@@ -83,8 +83,8 @@
     "menu.selectionForeground": "#fff",
 
     //tab
-    "tab.activeBackground": "#2c5457",
-    "tab.inactiveBackground": "#665b5b",
+    "tab.activeBackground": "#2c085093",
+    "tab.inactiveBackground": "#000",
     "tab.hoverBackground": "#0D001A",//6e769e
     "tab.hoverBorder": "#000000",
     "tab.activeBorder": "#000000",

@@ -14,8 +14,8 @@
     "editor.hoverHighlightBackground": "#1c3847",
     "editorHoverWidget.background": "#0A111B",//2f385e
     "editorGutter.background": "#071721",
-    "editorIndentGuide.activeBackground": "#c18bffd2",
-    "editorIndentGuide.background": "#5060a788",
+    "editorIndentGuide.activeBackground1": "#c18bffd2",
+    "editorIndentGuide.background1": "#5060a788",
     
     //activityBar
     "activityBarBadge.background": "#152934",
@@ -73,13 +73,13 @@
 
     //menu
     "menu.background": "#071721",
-    "menu.border": "#000",
+    "menu.border": "#1e3d4e",
     "menu.foreground": "#d8d8d8",
-    "menubar.selectionBackground": "#0A111B",
+    "menubar.selectionBackground": "#1e3d4e",
     "menubar.selectionForeground": "#fff",
     "menu.separatorBackground": "#171e24",
-    "menu.selectionBackground": "#171c20",
-    "menu.selectionBorder": "#191d20",
+    "menu.selectionBackground": "#1e3d4e",
+    "menu.selectionBorder": "#1e3d4e",
     "menu.selectionForeground": "#fff",
 
     //tab
@@ -89,7 +89,7 @@
     "tab.hoverBorder": "#071721",
     "tab.activeBorder": "#071721",
     "tab.activeBorderTop": "#B0B2B6",
-    "tab.border": "#3a3938",//0A111B
+    "tab.border": "#1e3d4e",//0A111B
     "tab.activeForeground": "#fff",
     "tab.hoverForeground": "#fff",
     // "tab.unfocusedHoverBorder": "#434f86",
@@ -100,8 +100,8 @@
     "tab.unfocusedInactiveBackground": "#0A111B",
     "tab.unfocusedInactiveForeground": "#b3b4b6",
     "editorGroupHeader.tabsBackground": "#0A111B",
-    "editorGroupHeader.tabsBorder": "#3a3938",
-    "editorGroup.border": "#3a3938",
+    "editorGroupHeader.tabsBorder": "#1e3d4e",
+    "editorGroup.border": "#1e3d4e",
     "widget.shadow": "#0a131b50",
     "icon.foreground": "#B0B2B6",
     "tree.indentGuidesStroke": "#272b2a",
@@ -114,7 +114,7 @@
     //titleBar
     "titleBar.activeBackground": "#071721",
     "titleBar.activeForeground": "#dcdcdc",
-    "titleBar.border": "#3a3938",
+    "titleBar.border": "#1e3d4e",
     "titleBar.inactiveBackground": "#071721",
     "titleBar.inactiveForeground": "#cdcdcd",
 
@@ -208,7 +208,7 @@
     "terminalCursor.foreground": "#B0B2B6",
     
     //panel
-    "panel.border": "#2f2e30",
+    "panel.border": "#1e3d4e",
     "panel.background": "#071721",//434f86
     //panelTitle
     "panelTitle.activeBorder": "#272b2a",

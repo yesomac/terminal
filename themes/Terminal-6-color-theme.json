@@ -14,8 +14,8 @@
     "editor.hoverHighlightBackground": "#1c3847",
     "editorHoverWidget.background": "#02070a",//2f385e
     "editorGutter.background": "#000000",
-    "editorIndentGuide.activeBackground": "#c18bff73",
-    "editorIndentGuide.background": "#5060a7",
+    "editorIndentGuide.activeBackground1": "#c18bff73",
+    "editorIndentGuide.background1": "#5060a7",
     
     //activityBar
     "activityBarBadge.background": "#152934",
@@ -75,7 +75,7 @@
     "menu.background": "#000000",
     "menu.border": "#000",
     "menu.foreground": "#d8d8d8",
-    "menubar.selectionBackground": "#02070a",
+    "menubar.selectionBackground": "#071923",
     "menubar.selectionForeground": "#fff",
     "menu.separatorBackground": "#171e24",
     "menu.selectionBackground": "#171c20",
